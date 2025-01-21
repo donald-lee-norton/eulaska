@@ -1,5 +1,9 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  target: 'serverless', // Optional for serverless deployment
+  experimental: {
+    appDir: true, // Enable experimental app directory if using
+  },
   images: {
     domains: ["localhost"],
     remotePatterns: [
