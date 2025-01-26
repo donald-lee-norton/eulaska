@@ -3,8 +3,8 @@ import Link from "next/link";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Sign Up Page | Eulask",
-  description: "This is Sign Up Page for Eulask Company",
+  title: "Sign Up Page | Eulaska",
+  description: "This is Sign Up Page for Eulaska Company",
   // other metadata
 };
 
@@ -177,7 +177,7 @@ const SignupPage = () => {
                   </div>
                 </form>
                 <p className="text-center text-base font-medium text-body-color">
-                  Already using Eulask?{" "}
+                  Already using Eulaska?{" "}
                   <Link href="/signin" className="text-primary hover:underline">
                     Sign in
                   </Link>

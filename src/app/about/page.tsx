@@ -5,8 +5,8 @@ import Breadcrumb from "@/components/Common/Breadcrumb";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "About Page | Eulask",
-  description: "This is About Page for Eulask Company",
+  title: "About Page | Eulaska",
+  description: "This is About Page for Eulaska Company",
   // other metadata
 };
 

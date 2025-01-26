@@ -12,8 +12,8 @@ import Video from "@/components/Video";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Eulask",
-  description: "This is Home for Eulask Company",
+  title: "Eulaska",
+  description: "This is Home for Eulaska Company",
   // other metadata
 };
 
